@@ -1,0 +1,44 @@
+body {
+    background-color: #660000;
+}
+
+#main {
+    background-color: white;
+    border-radius: 15px;
+}
+
+h1{
+    color: white;
+    background-color: #330000;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+p, label, #display{
+    font-size: 20px;
+    margin-left: 1%;
+}
+
+input{
+    height: 20px;
+    margin-left: 1%;
+}
+
+select {
+    padding: 10px;
+    margin-left: 5%;
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 8%;
+    width: 100px;
+    height: 30px;
+    background-color: #330000;
+    color: white;
+    border: none;
+}
+
